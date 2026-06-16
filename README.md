@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm FIKRY MUMTAZ PRATAMA</h1>
 <h3 align="center">Informatics student interested in web development, cybersecurity, and modern software technologies.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiperfox4005&label=Profile%20views&color=0e75b6&style=flat" alt="chiperfox4005" /> </p>
+
 - 🔭 Personal and academic web development projects **Personal and academic web development projects**
 
 - 📚 I’m currently learning **Laravel, software architecture, cybersecurity fundamentals, and modern development practices**
