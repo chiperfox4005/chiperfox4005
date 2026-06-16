@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm FIKRY MUMTAZ PRATAMA</h1>
 <h3 align="center">Informatics student interested in web development, cybersecurity, and modern software technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiperfox4005" alt="chiperfox4005" /></a> </p>
-
 - 🔭 Personal and academic web development projects **Personal and academic web development projects**
 
 - 📚 I’m currently learning **Laravel, software architecture, cybersecurity fundamentals, and modern development practices**
