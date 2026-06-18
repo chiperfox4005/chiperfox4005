@@ -1,4 +1,4 @@
-<h1 align="center">
+[<h1 align="center">
   Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=520&height=50&lines=FIKRY+MUMTAZ+PRATAMA" alt="Typing SVG" /></a>
 </h1>
 
@@ -72,3 +72,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikryxfun | Instagram" height="30" width="40"/>
   </a>
 </p>
+](https://about-fikry.vercel.app)
