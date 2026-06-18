@@ -1,6 +1,4 @@
-[<h1 align="center">
-  Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=520&height=50&lines=FIKRY+MUMTAZ+PRATAMA" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hi 👋, I'm FIKRY MUMTAZ PRATAMA</h1>
 
 <h3 align="center">
   Informatics student interested in web development, cybersecurity, and modern software technologies.
@@ -20,7 +18,7 @@
 
 * 🔭 **Currently working on:** Personal and academic web development projects.
 * 📚 **Currently learning:** Laravel, software architecture, cybersecurity fundamentals, and modern development practices.
-* 👨‍💻 **My Portfolio:** Check out all of my projects at [github.com/chiperfox4005](https://github.com/chiperfox4005).
+* 👨‍💻 **My Projects:** All of my projects are available at [github.com/chiperfox4005](https://github.com/chiperfox4005).
 * 💬 **Ask me about:** Web development, Laravel, GitHub, and project development.
 * ⚡ **Fun fact:** I enjoy turning ideas into working projects and exploring new technologies.
 
@@ -33,7 +31,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  </a>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=chiperfox4005&show_icons=true&theme=visual_studio_code" alt="Fikry's GitHub Stats" backend="true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=chiperfox4005&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiperfox4005&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="Top Languages" width="100%"/>
@@ -65,11 +65,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/fikry-mumtaz-pratama-7a4883327" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fikry Mumtaz Pratama | LinkedIn" height="30" width="40"/>
+  <a href="https://linkedin.com/in/fikry-mumtaz-pratama-7a4883327" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/fikryxfun" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikryxfun | Instagram" height="30" width="40"/>
+  <a href="https://instagram.com/fikryxfun" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
-](https://about-fikry.vercel.app)
